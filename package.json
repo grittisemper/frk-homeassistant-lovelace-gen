@@ -1,5 +1,5 @@
 {
-  "name": "com.ha.frk.lovelace.get",
+  "name": "com.ha.frk.lovelace.generator",
   "displayName": "Home Assistant Forked Component Lovelace Generator",
   "version": "1.0.0",
   "description": "",
